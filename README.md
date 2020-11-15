@@ -15,7 +15,7 @@ return XML
 
 ### Installation
 
-Before running the project make sure you have installed **NodeJs** y **Yarn**.  
+Before running the project make sure you have installed **nodeJs**, **npm** and **yarn** (optional).  
 
 Please execute the following commands on your terminal:  
 
@@ -25,9 +25,9 @@ Please execute the following commands on your terminal:
 
 3. cp .env.example .env (Windows: copy .env.example .env)
 
-3. yarn install
+3. yarn install (with npm: npm install)
 
-4. yarn start
+4. yarn start (with npm: npm run start)
 
 ### Documentation
 
@@ -48,7 +48,7 @@ retorna XML
 
 ### Instalación
 
-Antes de ejecutar el proyecto asegurese de tener instalado **NodeJs** y **Yarn**.  
+Antes de ejecutar el proyecto asegurese de tener instalado **nodeJs**, **npm** y **yarn** (opcional).  
 
 Por favor ejecute los siguientes comandos en la terminal:  
 
@@ -58,9 +58,9 @@ Por favor ejecute los siguientes comandos en la terminal:
 
 3. cp .env.example .env (para Windows: copy .env.example .env)
 
-3. yarn install
+3. yarn install (con npm: npm install)
 
-4. yarn start
+4. yarn start (con npm: npm run start)
 
 ### Documentación
 
