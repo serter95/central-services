@@ -23,11 +23,9 @@ Please execute the following commands on your terminal:
 
 3. cp .env.example .env (Windows: copy .env.example .env)
 
-3. yarn
+3. yarn install
 
-4. adonis key:generate
-
-5. adonis serve --dev
+4. yarn start
 
 ### Documentation
 
@@ -56,11 +54,9 @@ Por favor ejecute los siguientes comandos en la terminal:
 
 3. cp .env.example .env (para Windows: copy .env.example .env)
 
-3. yarn
+3. yarn install
 
-4. adonis key:generate
-
-5. adonis serve --dev
+4. yarn start
 
 ### Documentación
 
