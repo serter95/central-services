@@ -56,7 +56,7 @@ class AppleSearch {
       // media: ebook
         // kind: 'ebook'
       
-      const result = (await this.axios.get(`https://itunes.apple.com/search?term=${formatedData}&limit=10&media=all`)).data
+      const result = (await this.axios.get(`https://itunes.apple.com/search?term=${formatedData}&limit=25&media=all`)).data
       return result.results.map(({ kind, wrapperType, artistName, trackName, collectionName, previewUrl, trackViewUrl }) => {
         return {
           category: kind || wrapperType,
