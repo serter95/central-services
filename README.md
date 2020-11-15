@@ -15,6 +15,8 @@ return XML
 
 ### Installation
 
+Before running the project make sure you have installed **NodeJs** y **Yarn**.  
+
 Please execute the following commands on your terminal:  
 
 1. git clone https://github.com/serter95/centralServicesBackend.git
@@ -45,6 +47,8 @@ retorna JSON
 retorna XML
 
 ### Instalación
+
+Antes de ejecutar el proyecto asegurese de tener instalado **NodeJs** y **Yarn**.  
 
 Por favor ejecute los siguientes comandos en la terminal:  
 
