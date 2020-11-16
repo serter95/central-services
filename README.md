@@ -27,7 +27,9 @@ Please execute the following commands on your terminal:
 
 3. yarn install (with npm: npm install)
 
-4. yarn start (with npm: npm run start)
+4. npx adonis key:generate
+
+5. yarn start (with npm: npm run start)
 
 ### Documentation
 
@@ -60,7 +62,9 @@ Por favor ejecute los siguientes comandos en la terminal:
 
 3. yarn install (con npm: npm install)
 
-4. yarn start (con npm: npm run start)
+4. npx adonis key:generate
+
+5. yarn start (with npm: npm run start)
 
 ### Documentación
 
