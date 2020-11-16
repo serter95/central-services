@@ -64,7 +64,7 @@ Por favor ejecute los siguientes comandos en la terminal:
 
 4. npx adonis key:generate
 
-5. yarn start (with npm: npm run start)
+5. yarn start (con npm: npm run start)
 
 ### Documentación
 
